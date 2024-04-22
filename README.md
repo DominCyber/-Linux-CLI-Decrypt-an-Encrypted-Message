@@ -5,11 +5,10 @@ Coursera Google Cybersecurity Professional Certificate Course work intend to imp
 ### Skills Learned
 -CLI Commands:
 <p>--For displaying hidden files in a directory (-a)</p>
-<p>--Translation of encrypted text via mapping (tr)</p>
-<p>--Translation of encrypted text via mapping (tr)</p>
+<p>--Translation of encrypted text via mapping parameters (tr)</p>
 <p>--Securing decryption output and key use (see below)</p>
 <p>--Argument for decryption (-d)</p>
-<p>--Specifying input and output file name arguments (-in, -out)</p>
+<p>--Specifying input and output file name arguments (-in..., -out...)</p>
 <p>--Specifying decryption process password (-k)</p>
 <p>-Exploring cryptograhic standards for decryption out</p>
 
