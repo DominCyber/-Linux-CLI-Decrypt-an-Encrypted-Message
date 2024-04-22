@@ -1,6 +1,6 @@
 # Linux CLI Decrypt an Encrypted Message
 ## Objective
-The Coursera Google Cybersecurity Professional Certificate Course work provides practical cybersecurity skills. This guided project utilizes a virtual enviroment to familiarize users with Linux CLI for decrypting encrypted messages and cryptography.
+The Coursera Google Cybersecurity Professional Certificate Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine enviroment to familiarize users with Linux CLI for decrypting encrypted messages and cryptography.
 
 ### Skills Learned
 -CLI Commands:
