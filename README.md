@@ -10,8 +10,8 @@ Coursera Google Cybersecurity Professional Certificate Course work intend to imp
 <p>--Securing decryption output and key use (see below)</p>
 <p>--Argument for decryption (-d)</p>
 <p>--Specifying input and output file name arguments (-in, -out)</p>
-<p>--Specifying decryption process password</p>
-
+<p>--Specifying decryption process password (-k)/p>
+<p>-Exploring cryptograhic standards for decryption out</p>
 
 ### Tools Used
 -Laptop
