@@ -18,6 +18,6 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 
 ### Steps
 <img src="https://i.imgur.com/nZx9XLn.jpg" style="width: 65%;" alt="1">
-<p><i>Linux CLI decryption example</i></p>
+<p><i>Ref 1: Linux CLI decryption example</i></p>
 /caesar$ hidden files are revealed with "ls -a". The hidden file, hidden status indicated with a "." prefix, displays an encrypted message with the "cat" command.
 The output was encryped with a caesar cypher, with is then translated with the "tr" command and displayed. The command is accompanied with mapping parameters; the "d-za-cD-ZA-C" indicates that the original message alphabet range will be translated to the second parameter values. Lastly, the following commands specify: "openssl aes-256-cbc" for a secure output; "-pbkdf2" for secure key method; "-a" for encoding the output; "-d" for decryption; "-in ... -out..." input and output file name; and "-k" for password for decryption.
